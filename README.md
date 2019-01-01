@@ -1,7 +1,7 @@
 # projectICE
 This project is similar to the NES game Ice Climbers released on January 30, 1985.
 
-![alt text](http://url/to/iceclimbers.jpg)
+![alt text](https://raw.githubusercontent.com/BenjaminVincent/projectICE/iceclimbers.jpg)
 
 # Details:
 Developed in GameMaker Studio 2, Started January 1st 2019
