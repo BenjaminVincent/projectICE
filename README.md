@@ -3,3 +3,8 @@ This project is similar to the NES game Ice Climbers released on January 30, 198
 
 # Details:
 Developed in GameMaker Studio 2, Started January 1st 2019
+
+project members:
+  - Benjamin Vincent
+  - Jacob Moreau
+  - Justin Stewart
