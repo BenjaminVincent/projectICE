@@ -1,5 +1,5 @@
 1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
-    "option_gameguid": "058c378b-cba0-486d-9a70-7be6dd524154",
+    "option_gameguid": "0e2510f1-ca2d-468b-a574-d84de8f893d8",
     "option_game_speed": 60
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "targets": 461609314234257646
