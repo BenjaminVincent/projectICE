@@ -1,8 +1,11 @@
-/// @Initialize player variables
-life = 3
+/// @description
 
-// speed at which the player moves at
-pSpeed = 4
+// x = 0, y = 0
+velocity = [0, 0];
+grav = 1.5;
+jump_speed = 28;
+max_velocity = [4, 16];
+acceleration = 2.1;
 
-// initiali update speed
-hSpeed = 0
+var layer_id = layer_get_id("collisionTiles");
+collision_tile_map_id = layer_tilemap_get_id(layer_id);
