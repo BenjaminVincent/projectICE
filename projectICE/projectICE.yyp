@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "f8c1ce1f-7b7e-4218-941c-2ef574d6dd50",
+            "Value": {
+                "id": "1a05ea0d-f07e-4d35-b7ad-db24a29250f6",
+                "resourcePath": "objects\\oEggplant\\oEggplant.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f8c39807-311f-45d9-9761-274be30996d5",
             "Value": {
                 "id": "297ce5a0-c717-47d9-802a-e851984b0880",
