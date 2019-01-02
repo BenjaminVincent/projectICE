@@ -1,12 +1,16 @@
 /// @description
 
-right = keyboard_check(vk_right)
-left = keyboard_check(vk_left)
+right = keyboard_check(vk_right);
+left = keyboard_check(vk_left);
+
+// Horizontal Player movement
 
 if (right){
-	x += pSpeed
+	hSpeed = pSpeed;
+} else if (left) {
+	hSpeed = -pSpeed;
+} else {
+	hSpeed = 0;
 }
-
-if (left) {
-	x -= pSpeed
-}
+// Update per frame
+x += hSpeed;
