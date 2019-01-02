@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "4e72832c-d951-4ea4-8e96-e36651071572",
+            "Value": {
+                "id": "9e9e5f0e-fb6a-403b-af45-bfb4f422ac61",
+                "resourcePath": "objects\\oPlayer_Jacob_0\\oPlayer_Jacob_0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "593bc75c-1c53-4d9a-acdf-3ea84da43a53",
             "Value": {
                 "id": "55cda6b7-2041-4513-bf32-1b7ea738b969",
