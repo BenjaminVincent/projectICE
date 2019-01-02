@@ -95,19 +95,19 @@
             }
         },
         {
+            "Key": "4b99fad7-eed3-4243-b16f-a66cd0b5c72f",
+            "Value": {
+                "id": "57aaa400-4169-4ded-b491-7c4c80c3ded2",
+                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4d401270-d21c-4e6b-b905-1d0d8e379970",
             "Value": {
                 "id": "4e491199-f6ae-4455-b523-2746464ff487",
                 "resourcePath": "views\\4d401270-d21c-4e6b-b905-1d0d8e379970.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4e72832c-d951-4ea4-8e96-e36651071572",
-            "Value": {
-                "id": "9e9e5f0e-fb6a-403b-af45-bfb4f422ac61",
-                "resourcePath": "objects\\oPlayer_Jacob_0\\oPlayer_Jacob_0.yy",
-                "resourceType": "GMObject"
             }
         },
         {

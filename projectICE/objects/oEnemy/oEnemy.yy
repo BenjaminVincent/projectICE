@@ -1,18 +1,18 @@
 {
-    "id": "4e72832c-d951-4ea4-8e96-e36651071572",
+    "id": "4b99fad7-eed3-4243-b16f-a66cd0b5c72f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oPlayer_Jacob_0",
+    "name": "oEnemy",
     "eventList": [
         {
-            "id": "1e72868d-8d0e-432a-9a5d-41f44bedf870",
+            "id": "58f0776f-7d3c-4d63-8039-3ff10bf32748",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4e72832c-d951-4ea4-8e96-e36651071572"
+            "m_owner": "4b99fad7-eed3-4243-b16f-a66cd0b5c72f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
