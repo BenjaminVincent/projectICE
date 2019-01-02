@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "9679eea1-f045-49b8-8a3c-2dc512c2cd69",
+            "Value": {
+                "id": "c76747d4-5737-46cb-bdde-8273bc57b274",
+                "resourcePath": "objects\\oBlock\\oBlock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "24175919-6a17-4b3e-b608-06ad9bae400a",
