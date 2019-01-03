@@ -2,7 +2,7 @@
 
 // x = 0, y = 0
 velocity = [0, 0];
-grav = 1.5;
+grav = 1.6;
 jump_speed = 24;
 max_velocity = [4, 16];
 acceleration = 2.1;
