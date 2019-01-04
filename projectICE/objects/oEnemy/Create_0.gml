@@ -1,6 +1,7 @@
 /// @description initialize enemy
 
 hit = false;
+test = false;
 
 left = 1;
 right = 0;

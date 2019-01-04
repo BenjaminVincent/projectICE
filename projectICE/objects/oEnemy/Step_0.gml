@@ -1,6 +1,7 @@
 /// @description
 
 
+
 var x_input = (right - left) * acceleration;
 
 
