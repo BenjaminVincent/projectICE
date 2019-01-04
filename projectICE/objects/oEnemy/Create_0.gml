@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-/// @description Insert description here
-// You can write your code in this editor
-=======
 /// @description initialize enemy
 
 hit = false;
@@ -18,4 +14,3 @@ acceleration = 2.1;
 
 var layer_id = layer_get_id("collisionTiles");
 collision_tile_map_id = layer_tilemap_get_id(layer_id);
->>>>>>> Ben
