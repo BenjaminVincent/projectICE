@@ -79,6 +79,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "2629725e-f742-497d-9bbb-52798a8c8da8",
             "Value": {
                 "id": "a06956c0-8cfc-4a39-a658-696a164eca34",
@@ -95,6 +96,8 @@
             }
         },
         {
+=======
+>>>>>>> Justin
             "Key": "338dcaeb-1771-4608-8c4e-8eba0ca1f04d",
             "Value": {
                 "id": "826f2d6e-54ef-4a9f-b189-6c8587ca94f5",
@@ -148,14 +151,6 @@
                 "id": "498e58fe-9320-48c9-8a6b-1fc58f105a12",
                 "resourcePath": "views\\482210ca-9320-48a5-99e6-11e5d3b3edf6.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "4b99fad7-eed3-4243-b16f-a66cd0b5c72f",
-            "Value": {
-                "id": "57aaa400-4169-4ded-b491-7c4c80c3ded2",
-                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
-                "resourceType": "GMObject"
             }
         },
         {
