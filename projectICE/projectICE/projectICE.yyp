@@ -47,14 +47,6 @@
             }
         },
         {
-            "Key": "0816178e-8138-4513-a7b7-37003d61893e",
-            "Value": {
-                "id": "3a80b526-8168-4759-aa28-c0d80e38ae09",
-                "resourcePath": "sprites\\sCollide\\sCollide.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "139b63ce-7d20-4aca-9e71-fb6b054dcdab",
             "Value": {
                 "id": "8a75c798-1160-4dc3-8d8d-68f44884b4d4",
@@ -79,15 +71,6 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "2629725e-f742-497d-9bbb-52798a8c8da8",
-            "Value": {
-                "id": "a06956c0-8cfc-4a39-a658-696a164eca34",
-                "resourcePath": "objects\\oCollide\\oCollide.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2e269ec2-abee-408e-af31-aac0b85d80c3",
             "Value": {
                 "id": "50c20053-0518-400d-ab37-6614d4ef97c9",
@@ -96,8 +79,6 @@
             }
         },
         {
-=======
->>>>>>> Justin
             "Key": "338dcaeb-1771-4608-8c4e-8eba0ca1f04d",
             "Value": {
                 "id": "826f2d6e-54ef-4a9f-b189-6c8587ca94f5",
@@ -151,6 +132,14 @@
                 "id": "498e58fe-9320-48c9-8a6b-1fc58f105a12",
                 "resourcePath": "views\\482210ca-9320-48a5-99e6-11e5d3b3edf6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4b99fad7-eed3-4243-b16f-a66cd0b5c72f",
+            "Value": {
+                "id": "57aaa400-4169-4ded-b491-7c4c80c3ded2",
+                "resourcePath": "objects\\oEnemy\\oEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -270,14 +259,6 @@
             "Value": {
                 "id": "c46b692b-4eb7-41ca-abe9-8e91c42f637f",
                 "resourcePath": "views\\d83d5497-3c9b-43b1-8f4e-314621a1a37c.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e6eb0f06-2a4b-4a37-a6f3-58b5e652ccea",
-            "Value": {
-                "id": "6d702b2f-4b9e-484f-bc09-a06a8899464c",
-                "resourcePath": "views\\e6eb0f06-2a4b-4a37-a6f3-58b5e652ccea.yy",
                 "resourceType": "GMFolder"
             }
         },
