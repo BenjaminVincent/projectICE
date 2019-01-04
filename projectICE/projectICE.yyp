@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "d4ca1d4e-6248-4043-a04c-d1cce7d4dffa",
+            "Value": {
+                "id": "2ffd2b50-6e18-4ef9-8533-760781d691f0",
+                "resourcePath": "sounds\\sdDummy\\sdDummy.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "d83d5497-3c9b-43b1-8f4e-314621a1a37c",
             "Value": {
                 "id": "c46b692b-4eb7-41ca-abe9-8e91c42f637f",
