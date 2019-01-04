@@ -1,8 +1,6 @@
 /// @description
 
 
-show_debug_message(left)
-show_debug_message(right)
 var x_input = (right - left) * acceleration;
 
 
